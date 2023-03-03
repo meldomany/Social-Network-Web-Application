@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Projects\\Dotnetcore and Angular\\SocialNetwork\\SocialNetworkSln\\SocialNetwork.Services\\SocialNetwork.Services.csproj": {}
+  },
+  "projects": {
+    "F:\\Projects\\Dotnetcore and Angular\\SocialNetwork\\SocialNetworkSln\\SocialNetwork.Models\\SocialNetwork.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\Dotnetcore and Angular\\SocialNetwork\\SocialNetworkSln\\SocialNetwork.Models\\SocialNetwork.Models.csproj",
+        "projectName": "SocialNetwork.Models",
+        "projectPath": "F:\\Projects\\Dotnetcore and Angular\\SocialNetwork\\SocialNetworkSln\\SocialNetwork.Models\\SocialNetwork.Models.csproj",
+        "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\Dotnetcore and Angular\\SocialNetwork\\SocialNetworkSln\\SocialNetwork.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Projects\\Dotnetcore and Angular\\SocialNetwork\\SocialNetworkSln\\SocialNetwork.Services\\SocialNetwork.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\Dotnetcore and Angular\\SocialNetwork\\SocialNetworkSln\\SocialNetwork.Services\\SocialNetwork.Services.csproj",
+        "projectName": "SocialNetwork.Services",
+        "projectPath": "F:\\Projects\\Dotnetcore and Angular\\SocialNetwork\\SocialNetworkSln\\SocialNetwork.Services\\SocialNetwork.Services.csproj",
+        "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\Dotnetcore and Angular\\SocialNetwork\\SocialNetworkSln\\SocialNetwork.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\Projects\\Dotnetcore and Angular\\SocialNetwork\\SocialNetworkSln\\SocialNetwork.Models\\SocialNetwork.Models.csproj": {
+                "projectPath": "F:\\Projects\\Dotnetcore and Angular\\SocialNetwork\\SocialNetworkSln\\SocialNetwork.Models\\SocialNetwork.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.19.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

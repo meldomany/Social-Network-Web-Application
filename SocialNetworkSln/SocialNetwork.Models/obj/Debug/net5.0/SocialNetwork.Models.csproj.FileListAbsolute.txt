@@ -1,0 +1,24 @@
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Models\bin\Debug\net5.0\SocialNetwork.Models.deps.json
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Models\bin\Debug\net5.0\SocialNetwork.Models.dll
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Models\bin\Debug\net5.0\SocialNetwork.Models.pdb
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Models\obj\Debug\net5.0\SocialNetwork.Models.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Models\obj\Debug\net5.0\SocialNetwork.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Models\obj\Debug\net5.0\SocialNetwork.Models.AssemblyInfoInputs.cache
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Models\obj\Debug\net5.0\SocialNetwork.Models.AssemblyInfo.cs
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Models\obj\Debug\net5.0\SocialNetwork.Models.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Models\obj\Debug\net5.0\SocialNetwork.Models.dll
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Models\obj\Debug\net5.0\refint\SocialNetwork.Models.dll
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Models\obj\Debug\net5.0\SocialNetwork.Models.pdb
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Models\obj\Debug\net5.0\ref\SocialNetwork.Models.dll
+F:\Projects\Dotnetcore and Angular\SocialNetwork\SocialNetworkSln\SocialNetwork.Models\bin\Debug\net5.0\SocialNetwork.Models.deps.json
+F:\Projects\Dotnetcore and Angular\SocialNetwork\SocialNetworkSln\SocialNetwork.Models\bin\Debug\net5.0\SocialNetwork.Models.dll
+F:\Projects\Dotnetcore and Angular\SocialNetwork\SocialNetworkSln\SocialNetwork.Models\bin\Debug\net5.0\SocialNetwork.Models.pdb
+F:\Projects\Dotnetcore and Angular\SocialNetwork\SocialNetworkSln\SocialNetwork.Models\obj\Debug\net5.0\SocialNetwork.Models.csproj.AssemblyReference.cache
+F:\Projects\Dotnetcore and Angular\SocialNetwork\SocialNetworkSln\SocialNetwork.Models\obj\Debug\net5.0\SocialNetwork.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Dotnetcore and Angular\SocialNetwork\SocialNetworkSln\SocialNetwork.Models\obj\Debug\net5.0\SocialNetwork.Models.AssemblyInfoInputs.cache
+F:\Projects\Dotnetcore and Angular\SocialNetwork\SocialNetworkSln\SocialNetwork.Models\obj\Debug\net5.0\SocialNetwork.Models.AssemblyInfo.cs
+F:\Projects\Dotnetcore and Angular\SocialNetwork\SocialNetworkSln\SocialNetwork.Models\obj\Debug\net5.0\SocialNetwork.Models.csproj.CoreCompileInputs.cache
+F:\Projects\Dotnetcore and Angular\SocialNetwork\SocialNetworkSln\SocialNetwork.Models\obj\Debug\net5.0\SocialNetwork.Models.dll
+F:\Projects\Dotnetcore and Angular\SocialNetwork\SocialNetworkSln\SocialNetwork.Models\obj\Debug\net5.0\refint\SocialNetwork.Models.dll
+F:\Projects\Dotnetcore and Angular\SocialNetwork\SocialNetworkSln\SocialNetwork.Models\obj\Debug\net5.0\SocialNetwork.Models.pdb
+F:\Projects\Dotnetcore and Angular\SocialNetwork\SocialNetworkSln\SocialNetwork.Models\obj\Debug\net5.0\ref\SocialNetwork.Models.dll

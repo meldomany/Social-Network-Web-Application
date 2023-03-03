@@ -1,0 +1,12 @@
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Shared\bin\Debug\net5.0\SocialNetwork.Shared.deps.json
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Shared\bin\Debug\net5.0\SocialNetwork.Shared.dll
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Shared\bin\Debug\net5.0\SocialNetwork.Shared.pdb
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Shared\obj\Debug\net5.0\SocialNetwork.Shared.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Shared\obj\Debug\net5.0\SocialNetwork.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Shared\obj\Debug\net5.0\SocialNetwork.Shared.AssemblyInfoInputs.cache
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Shared\obj\Debug\net5.0\SocialNetwork.Shared.AssemblyInfo.cs
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Shared\obj\Debug\net5.0\SocialNetwork.Shared.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Shared\obj\Debug\net5.0\SocialNetwork.Shared.dll
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Shared\obj\Debug\net5.0\refint\SocialNetwork.Shared.dll
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Shared\obj\Debug\net5.0\SocialNetwork.Shared.pdb
+C:\Users\moham\Desktop\SocialNetworkSln\SocialNetwork.Shared\obj\Debug\net5.0\ref\SocialNetwork.Shared.dll
